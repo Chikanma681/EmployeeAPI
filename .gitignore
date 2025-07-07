@@ -1,0 +1,18 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# Logs
+*.log
+
+# NuGet Packages
+packages/
+
+# Resharper
+_ReSharper*/
+*.ReSharper
